@@ -1,3 +1,3 @@
-ESP8266-012F breakout board for sensors and probes applicationes
+ESP8266-012F breakout board for sensors and probes devices
 
 Coming soon...
